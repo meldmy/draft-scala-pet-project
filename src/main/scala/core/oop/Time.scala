@@ -1,4 +1,4 @@
-package warsztat.oop
+package core.oop
 
 import java.util.Calendar
 

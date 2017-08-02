@@ -1,4 +1,4 @@
-package warsztat.web
+package core.web
 
 import akka.actor.ActorSystem
 import akka.http.scaladsl.Http

@@ -1,4 +1,4 @@
-package warsztat.web
+package core.web
 
 import akka.http.scaladsl.server.{Directives, Route}
 

@@ -1,6 +1,6 @@
 package world
 //instead of using import world.human._
-import warsztat.human._
+import core.human._
 
 //instead of * asterisk in Scala we use underscore _
 //change name inside the class

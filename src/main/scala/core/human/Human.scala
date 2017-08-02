@@ -1,4 +1,4 @@
-package warsztat.human
+package core.human
 
 /**
   * @author Dmytro Melnychuk

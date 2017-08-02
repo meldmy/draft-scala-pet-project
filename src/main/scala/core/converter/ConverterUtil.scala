@@ -1,4 +1,4 @@
-package warsztat.converter
+package core.converter
 
 /**
   * @author Dmytro Melnychuk

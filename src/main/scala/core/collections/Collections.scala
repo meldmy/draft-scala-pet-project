@@ -1,4 +1,4 @@
-package warsztat.collections
+package core.collections
 
 /**
   * @author Dmytro Melnychuk

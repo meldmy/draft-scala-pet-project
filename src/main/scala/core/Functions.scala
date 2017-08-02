@@ -1,4 +1,4 @@
-package warsztat
+package core
 
 object Functions {
 

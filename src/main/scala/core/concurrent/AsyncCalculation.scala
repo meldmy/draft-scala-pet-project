@@ -1,4 +1,4 @@
-package warsztat.concurrent
+package core.concurrent
 
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.duration.Duration
