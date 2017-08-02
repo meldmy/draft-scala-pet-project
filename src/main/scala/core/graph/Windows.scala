@@ -1,4 +1,4 @@
-package warsztat.graph
+package core.graph
 
 import java.awt.Rectangle
 
