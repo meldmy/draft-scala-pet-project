@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '* * * * *'
 
 
 jobs:
@@ -13,4 +13,5 @@ jobs:
         with:
           github-token: ${{ secrets.ADMIN_GITHUB_TOKEN }}
           github-repository: meldmy/draft-scala-pet-project
+          author-email: kosoxi1550@septicvernon.com
           
